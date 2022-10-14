@@ -65,6 +65,12 @@ export const useMember = () => {
       nickName: "safestabi",
       description: "Dek jura",
       skill: "math chemistry Physics",
+    },
+    {
+    image: "https://media.discordapp.net/attachments/726796612772429884/891646944051625984/238585615_1285440881913246_2622687303672949542_n.png?width=936&height=936",
+      nickName: "MAMMOZ",
+      description: ";-;",
+      skill: "Front-End Develop",
     }
   ];
   return { myG };
